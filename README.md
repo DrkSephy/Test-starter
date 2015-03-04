@@ -45,11 +45,11 @@ D. Whenever you do changes, make sure you commit and push them to the `dev` bran
 
 Some useful links for learning about Django, OAuth and anything project related can be found below. Feel free to add to the list!
 
-[Setting up Django](https://docs.djangoproject.com/en/1.7/intro/)
-[Django Tutorial](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
-[List of tutorials](https://code.djangoproject.com/wiki/Tutorials)
-[Django book - very worth your time to read through breifly!](http://www.tangowithdjango.com/book17/)
-[Django Rest Framework](http://www.django-rest-framework.org/tutorial/1-serialization/)
+* [Setting up Django](https://docs.djangoproject.com/en/1.7/intro/)
+* [Django Tutorial](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
+* [List of tutorials](https://code.djangoproject.com/wiki/Tutorials)
+* [Django book - very worth your time to read through breifly!](http://www.tangowithdjango.com/book17/)
+* [Django Rest Framework](http://www.django-rest-framework.org/tutorial/1-serialization/)
 
 
 
